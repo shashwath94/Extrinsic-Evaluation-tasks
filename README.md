@@ -1,4 +1,5 @@
 # Extrinsic-Evaluation-tasks
+* Code for running evaluations of word embeddings on extrinsic tasks from our <a href="https://aclweb.org/anthology/C18-1228">COLING 2018 paper</a>
 
 For each task, run `preprocess.py` to load the preprocessed version of the dataset.
 To train the model, run `train.py`
